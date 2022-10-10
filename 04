@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T07:42:20.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.4.0" etag="kS_A_AlaVyZhTPArxWR4" type="github"><diagram id="u1HeVXbaP8yQjhfxsBow">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-10T07:47:55.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="zgzAcSuUh_ECivforDHX" version="20.4.0" type="github">
+  <diagram id="u1HeVXbaP8yQjhfxsBow" name="Página-1">
+    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8JI-1cQUmy7e-aODr7yc-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="159" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8JI-1cQUmy7e-aODr7yc-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="589" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
